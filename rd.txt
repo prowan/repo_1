@@ -11,3 +11,6 @@ version 1.4
 
 version 1.5
 这个是第五版
+
+version 1.6
+这个是第六版
