@@ -24,3 +24,6 @@ add S7-200SMART SR60
 
 version 1.6.4
 add S7-200SMART SR40
+
+version 1.6.4.2
+developing
