@@ -17,3 +17,6 @@ version 1.6
 
 version 1.6.2
 111111666662222
+
+version 1.6.3
+add S7-200SMART SR60
