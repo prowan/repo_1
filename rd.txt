@@ -28,3 +28,7 @@ add S7-200SMART SR40
 version 1.6.4.2
 this is real developing
 
+this will be pushed to stash ok， in dev
+
+
+
